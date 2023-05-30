@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "img": "BahtovarMamurov.png",
+    "firstName": "Бахтовар",
+    "lastName": "Мамуров"
+  },
+  {
+    "id": "2",
+    "img": "FarruhIsaev.png",
+    "firstName": "Фаррух",
+    "lastName": "Исаев"
+  },
+  {
+    "id": "3",
+    "img": "DilovarSaidov.png",
+    "firstName": "Диловар",
+    "lastName": "Саидов"
+  },
+  {
+    "id": "4",
+    "img": "DalerKhusainov.png",
+    "firstName": "Далер",
+    "lastName": "Хусейнов"
+  },
+  {
+    "id": "5",
+    "img": "Hasan.soliev.png",
+    "firstName": "Хасан",
+    "lastName": "Солиев"
+  },
+  {
+    "id": "6",
+    "img": "IskandarAko.png",
+    "firstName": "Искандар",
+    "lastName": "Гадойбоев"
+  },
+  {
+    "id": "7",
+    "img": "Manucher.png",
+    "firstName": "Манучер",
+    "lastName": "Саидов"
+  },
+  {
+    "id": "8",
+    "img": "Muqadas.png",
+    "firstName": "Мукадас",
+    "lastName": "Хон"
+  },
+  {
+    "id": "9",
+    "img": "Nigora.ochilova.png",
+    "firstName": "Нигора",
+    "lastName": "Очилова"
+  },
+  {
+    "id": "10",
+    "img": "Sulaymon.png",
+    "firstName": "Сулаймон",
+    "lastName": "МУхамеджанов"
+  }
+]
